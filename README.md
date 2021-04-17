@@ -1,13 +1,13 @@
 # Checkers-AI
-<p>This is the implementation of Checkers game using pygame.
-The AI implemented uses the [Minimax](https://en.wikipedia.org/wiki/Minimax) algorithm to play.</p>
+This is the implementation of Checkers game using pygame.
+The AI implemented uses the [Minimax](https://en.wikipedia.org/wiki/Minimax) algorithm to play.
 
 <p>The white player is the AI and the black player is the human player. Its the human that has the first move (because I am biased towards humans ;)).</p>
 
 <p>Give it a shot and see if you can beat a computer!</p>
 
 ## Dependencies
-<p>The whole code is written in python3 and the only dependecy it has is the [`pygame`](https://pypi.org/project/pygame/) library.</p>
+The whole code is written in python3 and the only dependecy it has is the [`pygame`](https://pypi.org/project/pygame/) library.
 
 ## Installation
 
